@@ -1,0 +1,31 @@
+C:\ZI\ZI\bin\Debug\ZI.exe.config
+C:\ZI\ZI\bin\Debug\ZI.exe
+C:\ZI\ZI\bin\Debug\ZI.pdb
+C:\ZI\ZI\obj\Debug\ZI.csprojAssemblyReference.cache
+C:\ZI\ZI\obj\Debug\ZI.Form1.resources
+C:\ZI\ZI\obj\Debug\ZI.Properties.Resources.resources
+C:\ZI\ZI\obj\Debug\ZI.csproj.GenerateResource.cache
+C:\ZI\ZI\obj\Debug\ZI.csproj.CoreCompileInputs.cache
+C:\ZI\ZI\obj\Debug\ZI.exe
+C:\ZI\ZI\obj\Debug\ZI.pdb
+C:\Новая папка\ZI\ZI\bin\Debug\ZI.exe.config
+C:\Новая папка\ZI\ZI\bin\Debug\ZI.exe
+C:\Новая папка\ZI\ZI\bin\Debug\ZI.pdb
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.csprojAssemblyReference.cache
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.Form1.resources
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.Properties.Resources.resources
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.GenerateResource.cache
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.CoreCompileInputs.cache
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.exe
+C:\Новая папка\ZI\ZI\obj\Debug\ZI.pdb
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\bin\Debug\ZI.exe.config
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\bin\Debug\ZI.exe
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\bin\Debug\ZI.pdb
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.Form1.resources
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.Properties.Resources.resources
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.exe
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\ZI\ZI\obj\Debug\ZI.pdb
